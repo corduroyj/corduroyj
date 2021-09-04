@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corduroyj, You can call me Roy!
 - 👀 I’m interested in becoming a Front End Developer, or a Data Scientist!
 - 🌱 I’m currently learning C++, Ruby on Rails, Python, SQL (And associated SQL themed things) and JS!
-- 💞️ I’m looking to collaborate with non-profit organization that help LGBTQ+ communities
+- 💞️ I’m looking to collaborate with non-profit organization that help LGBTQ+ and/or BIPOC communities
 - 📫 You can reach me by email at gabejonuk@gmail.com
 
 <!---
