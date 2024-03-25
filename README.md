@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @corduroyj, You can call me Roy!
-- 👀 I’m interested in Web Development, Software Engineering and Cyber Security!
+- 👀 I’m interested in Web Development, Software Engineering and Cybersecurity!
 - 🌱 I am experined with C++, Ruby on Rails, Django, Python, Javascript, PHP, SQL, React, HTML, CSS, WordPress, Vercel, and Heroku
 - 📫 You can reach me by email at gabejonuk@gmail.com
